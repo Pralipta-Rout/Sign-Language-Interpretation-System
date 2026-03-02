@@ -92,6 +92,8 @@ Jupyter Notebook / Google Colab
 ---
 
 ## Project Structure
+
+```
 Sign-Language-Interpretation-System/
 │
 ├── images/
@@ -109,7 +111,7 @@ Sign-Language-Interpretation-System/
 ├── split_data.py
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## How to Run
